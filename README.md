@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Here is a screenshot of this project, displaying different pokemon cards. And on clicking these cards it shows their qualities with some basic information of respective pokemons.
+
+![image](https://user-images.githubusercontent.com/98086953/173416146-e45c031c-4e60-4f64-a671-21b2ae57fb9b.png)
+
+![image](https://user-images.githubusercontent.com/98086953/173416231-18ce13ab-ab60-4974-aed3-b2a0daa84849.png)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
